@@ -23,7 +23,7 @@ export class Pub {
         this.nameBeer=nameBeer;
     }
 
-    /*set name (name){this.name=name}
+    set name (name){this.name=name}
     get name (){return this.name}
     set firstName (firstName){this.firstName=firstName}
     get firstName (){return this.firstName}
@@ -40,7 +40,7 @@ export class Pub {
     set type (type){this.type=type}
     get type (){return this.type}
     set nameBeer (nameBeer){this.nameBeer=nameBeer}
-    get nameBeer (){return this.nameBeer}*/
+    get nameBeer (){return this.nameBeer}
 
 
 
